@@ -30,33 +30,32 @@ This is a single-page website built with HTML, CSS, and Tailwind CSS that provid
 - `crafts.jpg` - Arts and crafts activities photo
 - `donuts.jpg` - Delicious treats photo
 
-## Deployment to GoDaddy
+## 🚀 Live Site
 
-### Method 1: File Manager (Recommended)
-1. Log into your GoDaddy account
-2. Go to **Web Hosting** → **Manage**
-3. Open **File Manager**
-4. Navigate to the `public_html` folder
-5. Upload all files from this repository:
-   - `index.html`
-   - `logo.jpg`
-   - `namecards.jpg` 
-   - `library.jpg`
-   - `crafts.jpg`
-   - `donuts.jpg`
-6. Your site will be live at https://delcomemorycafe.org
+**The Delco Memory Café website is now live at:**
+**https://delcomemorycafe.org**
 
-### Method 2: Download from GitHub
-1. Go to https://github.com/tippi-fifestarr/memory-cafe
-2. Click the green **Code** button
-3. Select **Download ZIP**
-4. Extract the ZIP file
-5. Follow steps 1-6 from Method 1 above
+### Deployment Setup (Completed)
 
-### Method 3: FTP Upload
-1. Use an FTP client like FileZilla
-2. Connect to your GoDaddy hosting using FTP credentials
-3. Upload all files to the `public_html` directory
+The site was deployed using **Vercel + GoDaddy Domain** for optimal performance:
+
+**Why Vercel?**
+- ⚡ Lightning-fast performance with global CDN
+- 🔄 Automatic deployments from GitHub
+- 🛡️ Built-in SSL certificates
+- 📱 Perfect for static sites like this
+- 💰 Free tier available
+
+**Setup Completed:**
+1. ✅ Deployed to Vercel from GitHub repository
+2. ✅ Connected GoDaddy domain (`delcomemorycafe.org`)
+3. ✅ Updated DNS records for domain routing
+4. ✅ Added Vercel Analytics tracking
+5. ✅ Site is live and accessible
+
+### Analytics
+
+Vercel Web Analytics is enabled and tracking visitor data. You can view analytics in your Vercel dashboard under the Analytics tab.
 
 ## Contact Information
 
@@ -74,4 +73,4 @@ Built with ❤️ for the Delco Memory Café community. The site uses:
 
 ---
 
-*Where memories and friendship shine* ✨
+*Where fun and friendship shine* ✨
